@@ -1,7 +1,12 @@
-# full-login-and-working-Website
-A website developed using MEAN 
+# full-login-and-working-Website for blood Donation
+# developed for Chandigarh University 
+# A website developed using MEAN 
 
+# how to use:
+before starting this you must have node.js installed on your Computuer.
+extract the files , go to the folder and do npm install and then npm start.
 
+# log data
 Earlier details not logged:
 
 
