@@ -16,7 +16,7 @@
 
    [02:50 November 8 2017] Done with some major fixes a very minor tweak of work is left!
 
-   [08:23 November 27 2017] Done with the basic functionality of the website the content is quite fine.The maps API is kind of buggy.
+   [08:23 November 26 2017] Done with the basic functionality of the website the content is quite fine.The maps API is kind of buggy.
                             It needs time and i will be fixing it once i am done with my semester end examination.Enjoyed the process of                               web development and felt great after this project.Once i am done with the admin panel this will be published                               either on AWS or Azure as per convinence.
                             Remaning items:ADMIN PANEL, and
                                            Web Server Support.
