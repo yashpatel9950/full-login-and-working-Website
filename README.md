@@ -1,6 +1,8 @@
-# full-login-and-working-Website for blood Donation
-# developed for Chandigarh University 
+# Full-login-and-working-Website for blood Donation
+# Developed for Chandigarh University 
 # A website developed using MEAN 
+
+A website developed for organising a blood donation camp in Chandigarh University.
 
 # how to use:
   before starting this you must have node.js installed on your Computuer.
