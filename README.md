@@ -1,5 +1,3 @@
-# Full-Login-and-Working-Website for blood Donation
-# Developed for Chandigarh University 
 # A website developed using MEAN 
 
 A website developed for organising a blood donation camp in Chandigarh University.
